@@ -1,0 +1,14 @@
+﻿  lab2.cpp
+  The contents of <execution> are available only with C++17 or later.
+C:\Users\хряк\Desktop\parallel_p\lab2\lab2.cpp(151,21): error C3083: execution: символ слева от "::" должен представлять тип
+C:\Users\хряк\Desktop\parallel_p\lab2\lab2.cpp(151,32): error C2039: "seq": не является членом "std".
+I:\Microsoft Visual Studio2022 Community\VC\Tools\MSVC\14.32.31326\include\algorithm(40): message : см. объявление "std"
+C:\Users\хряк\Desktop\parallel_p\lab2\lab2.cpp(151,35): error C2065: seq: необъявленный идентификатор
+C:\Users\хряк\Desktop\parallel_p\lab2\lab2.cpp(159,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\хряк\Desktop\parallel_p\lab2\lab2.cpp(160,22): error C2086: std::vector<int,std::allocator<int>> v: переопределение
+C:\Users\хряк\Desktop\parallel_p\lab2\lab2.cpp(146): message : см. объявление "v"
+C:\Users\хряк\Desktop\parallel_p\lab2\lab2.cpp(168,20): error C3083: execution: символ слева от "::" должен представлять тип
+C:\Users\хряк\Desktop\parallel_p\lab2\lab2.cpp(168,31): error C2039: "seq": не является членом "std".
+I:\Microsoft Visual Studio2022 Community\VC\Tools\MSVC\14.32.31326\include\algorithm(40): message : см. объявление "std"
+C:\Users\хряк\Desktop\parallel_p\lab2\lab2.cpp(168,34): error C2065: seq: необъявленный идентификатор
+C:\Users\хряк\Desktop\parallel_p\lab2\lab2.cpp(182,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных

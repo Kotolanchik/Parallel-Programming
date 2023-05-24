@@ -1,0 +1,11 @@
+﻿  t_4.cpp
+C:\Users\хряк\Desktop\parallel_p\t_4\t_4.cpp(16,18): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=long
+          ]
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 83 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  t_4.vcxproj -> C:\Users\хряк\Desktop\parallel_p\x64\Release\t_4.exe
